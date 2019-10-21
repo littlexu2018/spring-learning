@@ -20,6 +20,6 @@ public class DefaultController {
 
     @RequestMapping("/sayHello")
     public String register(String name) {
-        return consumerService.sayHello(name);
+        return consumerService.sayHello("徐浩浩");
     }
 }

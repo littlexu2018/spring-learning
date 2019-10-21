@@ -12,7 +12,7 @@ dubbo:
     owner: LuoLiang
   registry:
     id: zk-registry
-    address: zookeeper://192.168.95.100:2181
+    address: zookeeper://121.40.117.175:2181
   protocol:
     id: dubbo
     name: dubbo
